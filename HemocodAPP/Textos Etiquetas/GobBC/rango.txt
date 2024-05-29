@@ -1,0 +1,17 @@
+Unidad 7 --- 7 --- 7 --- 7
+
+Producto 3 --- 3 --- 3 --- 3
+
+Grupo y rh 8 --- 8 --- 8 --- 8
+
+Fenotipo 38txt/40 --- 40/42 --- 38txt/40 --- 38tx/40
+
+Anticuerpos 31 --- 31 --- 31 --- 31
+
+Volumen 43txt --- 44txt --- 43txt --- 43txt
+
+Fecha de donacion 9 --- 9 --- 9 --- 9
+
+Fecha de caducidad 10 --- 10 --- 10 --- 10
+
+Serlogia 25/30 --- 25/30 --- 25/30 --- 25/30

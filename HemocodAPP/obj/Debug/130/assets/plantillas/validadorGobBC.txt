@@ -1,0 +1,13 @@
+﻿tipoSangre#contains#A2B Neg,A1 Neg,A+,A-,B+,B-,AB+,AB-,O+,O-
+producto#replace#O,0
+unidad#contains#=
+donador#replace#Donador:, 
+donador#replace#Donador, 
+donador#replace#Donador., 
+fechas#split# 
+fechas#contains#/,:
+serologia#contains#HIV,HBV,HCV,Sífilis,Sifilis,Chagas,Brucella
+fenotipo#contains#Kpa,K,Kpb,Cw,s,k,N,S,Jkb,Leb,P1,Jka,Fya,Fyb,Lua,Lub,M,Lea,C,c,E,e,D,Dia,Mia,I,H,Dib,V,Xga,f,i,Tja,U,Vel,B19,Jsa,Jsb,Doa,Dob,Ina,Cob,Vsv,A1
+anticuerpos#contains#EAI:
+anticuerpos#contains#EAI
+volumen#contains#volumen
