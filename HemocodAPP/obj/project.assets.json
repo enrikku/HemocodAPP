@@ -4768,11 +4768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\practicas\\Desktop\\HemocodAPP\\HemocodAPP\\HemocodAPP.csproj",
+      "projectUniqueName": "C:\\Users\\practicas\\Desktop\\a\\HemocodAPP\\HemocodAPP\\HemocodAPP.csproj",
       "projectName": "HemocodAPP",
-      "projectPath": "C:\\Users\\practicas\\Desktop\\HemocodAPP\\HemocodAPP\\HemocodAPP.csproj",
+      "projectPath": "C:\\Users\\practicas\\Desktop\\a\\HemocodAPP\\HemocodAPP\\HemocodAPP.csproj",
       "packagesPath": "C:\\Users\\practicas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\practicas\\Desktop\\HemocodAPP\\HemocodAPP\\obj\\",
+      "outputPath": "C:\\Users\\practicas\\Desktop\\a\\HemocodAPP\\HemocodAPP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4795,7 +4795,8 @@
         "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/BkeAjakdGVEEmNOv8PrXUtWbsTWcFPbZr1YdlXTp3iw48Y9hhT/api": {}
       },
       "frameworks": {
         "monoandroid13.0": {

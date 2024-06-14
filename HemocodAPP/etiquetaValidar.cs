@@ -1,13 +1,10 @@
-﻿using Android.App;
+﻿using System;
 using Android.OS;
+using Android.App;
 using Android.Widget;
-using System;
-using System.IO;
 using Android.Content.Res;
 using HemocodAPP.Resources.BBDD;
 using HemocodAPP.Resources.BBDD.Tablas;
-using System.Linq;
-//using Java.IO;
 
 namespace HemocodAPP
 {

@@ -1,37 +1,22 @@
-﻿using Android;
-using Android.App;
-using Android.Content;
-using Android.Content.PM;
-using Android.Gms.Vision.Texts;
-using Android.Gms.Vision;
-using Android.Graphics;
-using Android.Graphics.Drawables;
-using Android.Hardware;
-using Android.Media;
-using Android.Nfc;
+﻿using System;
+using Android;
+using Java.Lang;
 using Android.OS;
-using Android.Renderscripts;
+using Android.App;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
+using Android.Content;
+using Android.Graphics;
 using AndroidX.Core.App;
-using AndroidX.Core.Content;
-using Java.Lang;
-using Kotlin.Text;
-using System;
-using System.Collections.Generic;
-using static Android.Webkit.WebSettings;
-using static System.Net.Mime.MediaTypeNames;
-using static Xamarin.Essentials.Permissions;
-using System.Drawing.Drawing2D;
-using System.IO;
+using Android.Gms.Vision;
+using Android.Content.PM;
 using Android.Content.Res;
-using System.Globalization;
-using Android.Hardware.Lights;
-using static Android.Icu.Text.ListFormatter;
+using AndroidX.Core.Content;
+using Android.Gms.Vision.Texts;
 using HemocodAPP.Resources.BBDD;
+using Android.Graphics.Drawables;
 using HemocodAPP.Resources.BBDD.Tablas;
-
 
 namespace HemocodAPP
 {

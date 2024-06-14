@@ -1,7 +1,7 @@
-﻿using Android.App;
-using Android.Content;
-using Android.OS;
+﻿using Android.OS;
+using Android.App;
 using Android.Widget;
+using Android.Content;
 using AndroidX.AppCompat.App;
 
 namespace HemocodAPP

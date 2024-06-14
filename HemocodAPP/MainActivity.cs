@@ -1,17 +1,15 @@
-﻿using Android.App;
-using Android.Content;
-using Android.Content.PM;
-using Android.OS;
-using Android.Runtime;
-using Android.Widget;
-using AndroidX.AppCompat.App;
-using AndroidX.Core.App;
-using AndroidX.Core.Content;
-using HemocodAPP.Resources.BBDD;
-using HemocodAPP.Resources.BBDD.Tablas;
-using SQLite;
-using System;
+﻿using System;
 using System.IO;
+using Android.OS;
+using Android.App;
+using Android.Widget;
+using Android.Runtime;
+using Android.Content;
+using AndroidX.Core.App;
+using Android.Content.PM;
+using AndroidX.Core.Content;
+using AndroidX.AppCompat.App;
+using HemocodAPP.Resources.BBDD;
 
 namespace HemocodAPP
 {
